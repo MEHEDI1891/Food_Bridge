@@ -1,4 +1,4 @@
-# 🍲 FoodBridge – Smart Food Waste Reduction and Donation Management Platform
+#  FoodBridge – Smart Food Waste Reduction and Donation Management Platform
 
 ![Course](https://img.shields.io/badge/Course-SE%20331%20Capstone%20Project-blue)
 ![University](https://img.shields.io/badge/University-Daffodil%20International%20University-green)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🏗️ Project Architecture & Folder Structure
+##  Project Architecture & Folder Structure
 
 ```text
 FoodBridge/
@@ -57,7 +57,7 @@ FoodBridge/
 
 ---
 
-## 🛠️ How to Run Locally
+##  How to Run Locally
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher)
@@ -87,7 +87,7 @@ npm test
 
 ---
 
-## 📡 REST API Endpoints
+##  REST API Endpoints
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
