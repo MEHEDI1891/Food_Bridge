@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Core Dashboard Modules (4 Integrated Sections)
+##  Core Dashboard Modules (4 Integrated Sections)
 
 1. **Waste Reduction & Donation Impact Dashboard:**
    - Real-time KPIs tracking total surplus food rescued (kg), waste reduction percentage, estimated meals donated, and $\text{CO}_2$ emissions prevented.
