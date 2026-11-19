@@ -1,0 +1,68 @@
+{
+  "donations": [
+    {
+      "id": "FB-1001",
+      "donorName": "Sultan's Dine - Dhanmondi",
+      "foodItem": "Kacchi Biryani & Chicken Roast Packs",
+      "category": "Cooked Meals",
+      "quantityKg": 18.5,
+      "expiryHours": 2.5,
+      "expiresAt": "2026-11-19T16:46:41.521116+00:00",
+      "urgency": "CRITICAL",
+      "location": "Road 27, Dhanmondi, Dhaka",
+      "zone": "Dhanmondi",
+      "contactPhone": "01711-000111",
+      "status": "Available",
+      "claimedBy": null,
+      "createdAt": "2026-11-19T14:16:41.521116+00:00"
+    },
+    {
+      "id": "FB-1002",
+      "donorName": "Shwapno Super Shop - Mirpur",
+      "foodItem": "Fresh Seasonal Vegetables & Bananas",
+      "category": "Fruits & Vegetables",
+      "quantityKg": 25.0,
+      "expiryHours": 5.0,
+      "expiresAt": "2026-11-19T19:16:41.521116+00:00",
+      "urgency": "EXPIRING SOON",
+      "location": "Mirpur 10 Circle, Dhaka",
+      "zone": "Mirpur",
+      "contactPhone": "01911-444555",
+      "status": "Claimed",
+      "claimedBy": "Bidyanondo Foundation",
+      "createdAt": "2026-11-19T13:31:41.521116+00:00"
+    },
+    {
+      "id": "FB-1003",
+      "donorName": "Cooper's Bakery - Uttara",
+      "foodItem": "Assorted Bread Loaves, Buns & Croissants",
+      "category": "Bakery & Snacks",
+      "quantityKg": 12.0,
+      "expiryHours": 9.0,
+      "expiresAt": "2026-11-19T23:16:41.521116+00:00",
+      "urgency": "FRESH",
+      "location": "Sector 7, Uttara, Dhaka",
+      "zone": "Uttara",
+      "contactPhone": "01811-222333",
+      "status": "Available",
+      "claimedBy": null,
+      "createdAt": "2026-11-19T13:16:41.521116+00:00"
+    },
+    {
+      "id": "FB-1004",
+      "donorName": "DIU Cafeteria - Ashulia",
+      "foodItem": "Rice, Dal & Vegetable Curry Trays",
+      "category": "Cooked Meals",
+      "quantityKg": 32.0,
+      "expiryHours": 4.0,
+      "expiresAt": "2026-11-19T18:16:41.521116+00:00",
+      "urgency": "EXPIRING SOON",
+      "location": "Daffodil Smart City, Ashulia",
+      "zone": "Ashulia",
+      "contactPhone": "01611-666777",
+      "status": "Delivered",
+      "claimedBy": "DIU Social Services Club",
+      "createdAt": "2026-11-19T12:16:41.521116+00:00"
+    }
+  ]
+}
